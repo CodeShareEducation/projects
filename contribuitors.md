@@ -6,4 +6,4 @@ Here's the list of all contribuitors to CodeShare Projects. If you're one:
 - Send a Pull Request;
 
 ## Contribuitors
-- [Wendell Adriel](https://wendelladriel.github.io)
+- [Wendell Adriel](https://wendelladriel.github.io) - Full Stack Developer and Creator of CodeShare;
