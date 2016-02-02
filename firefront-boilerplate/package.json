@@ -1,7 +1,7 @@
 {
   "name": "FireFront",
   "version": "1.0.0",
-  "description": "Front-End boilerplate using many cool features and technologies to aid in the development",
+  "description": "Modern front-end boilerplate using many cool features and technologies to aid in the development",
   "main": "gulpfile.js",
   "scripts": {
     "test": "test"
