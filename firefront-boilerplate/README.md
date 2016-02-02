@@ -77,6 +77,10 @@ gulp watch
 gulp
 ```
 
+## Sample Page
+In the `src` directory there's a sample page using `.jade` and `.styl`! You can use it for a starting
+point or you can delete it and create your own files!!! **BE FREE!**  
+
 **I wish that this boilerplate can help you in your daily tasks!!!**  
 
 ***If you want to help this project,*** **FORK** ***it and make a*** **PULL REQUEST!!!**
