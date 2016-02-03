@@ -9,7 +9,7 @@ If you want to join or help a project, please feel free to fork and send a Pull 
 We're a team of brazilian developers who believes that sharing knowledge is the best way to keep a strong and growing community, so here we're going to make well-documented projects that will help beginner, intermediate, advanced, ninja and jedi developers to improve their skills!!! xD
 
 ## List of Projects
-- ***FireFront Boilerplate***
+- [***FireFront Boilerplate***](https://github.com/CodeShareEducation/firefront-boilerplate)
     - **Description:** Modern front-end boilerplate using many cool features and technologies to aid in the development.
     - **Author:** [Wendell Adriel](http://wendelladriel.github.io)
     - **Stack:** NodeJS, GulpJS, Stylus, Kouto-Swiss, Rupture, Jeet, etc
