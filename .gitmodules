@@ -1,0 +1,3 @@
+[submodule "firefront-boilerplate"]
+	path = firefront-boilerplate
+	url = https://github.com/CodeShareEducation/firefront-boilerplate.git
