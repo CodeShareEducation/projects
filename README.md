@@ -16,5 +16,10 @@ We're a team of brazilian developers who believes that sharing knowledge is the 
     - **Description:** Modern front-end boilerplate using many cool features and technologies to aid in the development.
     - **Author:** [Wendell Adriel](http://wendelladriel.github.io)
     - **Stack:** NodeJS, GulpJS, Stylus, Kouto-Swiss, Rupture, Jeet, etc
+- [***JEE + Angular + REST Study Project***](https://github.com/CodeShareEducation/java-angular-rest-study-project)
+    - **Description:** Simple CRUD using JEE and Angular.
+    - **Author:** [Vinicius Oliveira](https://github.com/sivinicius)
+    - **Stack:** Java, JEE, JPA, CDI, HTML, CSS, JS, Angular
+
 
 **I hope the projects here may help you in your study, and for you that's here to help, thanks in advance!!!**

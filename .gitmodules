@@ -1,3 +1,6 @@
 [submodule "firefront-boilerplate"]
 	path = firefront-boilerplate
 	url = https://github.com/CodeShareEducation/firefront-boilerplate.git
+[submodule "java-angular-rest-study-project"]
+	path = java-angular-rest-study-project
+	url = https://github.com/CodeShareEducation/java-angular-rest-study-project.git
