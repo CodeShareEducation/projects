@@ -4,3 +4,6 @@
 [submodule "java-angular-rest-study-project"]
 	path = java-angular-rest-study-project
 	url = https://github.com/CodeShareEducation/java-angular-rest-study-project.git
+[submodule "java-service-order"]
+	path = java-service-order
+	url = https://github.com/CodeShareEducation/java-service-order

@@ -20,6 +20,10 @@ We're a team of brazilian developers who believes that sharing knowledge is the 
     - **Description:** Simple CRUD using JEE and Angular.
     - **Author:** [Vinicius Oliveira](https://github.com/sivinicius)
     - **Stack:** Java, JEE, JPA, CDI, HTML, CSS, JS, Angular
+- [***Java Service Order***](https://github.com/CodeShareEducation/java-service-order)
+    - **Description:** Project to work with service orders from a cel phone store.
+    - **Author:** [John McQueide](https://github.com/mcqueide)
+    - **Stack:** Java, JSF, JPA, Hibernate, EJB, JBoss AS 7, PostgreSQL
 
 
 **I hope the projects here may help you in your study, and for you that's here to help, thanks in advance!!!**
