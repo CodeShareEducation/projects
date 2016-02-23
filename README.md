@@ -24,6 +24,10 @@ We're a team of brazilian developers who believes that sharing knowledge is the 
     - **Description:** Project to work with service orders from a cel phone store.
     - **Author:** [John McQueide](https://github.com/mcqueide)
     - **Stack:** Java, JSF, JPA, Hibernate, EJB, JBoss AS 7, PostgreSQL
+- [***Amazing TODO: Front-End***](https://github.com/CodeShareEducation/amazing-todo-front-end)
+    - **Description:** Front-end application to consume Amazing TODO API
+    - **Author:** [Wendell Adriel](http://wendelladriel.github.io)
+    - **Stack:** Angular (ngResource, ui-router), Angular Material, GulpJS, etc
 
 
 **I hope the projects here may help you in your study, and for you that's here to help, thanks in advance!!!**
