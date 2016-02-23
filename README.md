@@ -27,7 +27,7 @@ We're a team of brazilian developers who believes that sharing knowledge is the 
 - [***Amazing TODO: Front-End***](https://github.com/CodeShareEducation/amazing-todo-front-end)
     - **Description:** Front-end application to consume Amazing TODO API
     - **Author:** [Wendell Adriel](http://wendelladriel.github.io)
-    - **Stack:** Angular (ngResource, ui-router), Angular Material, GulpJS, etc
+    - **Stack:** Angular (ngResource, ui-router), Angular Material, NodeJS, GulpJS, etc
 
 
 **I hope the projects here may help you in your study, and for you that's here to help, thanks in advance!!!**
